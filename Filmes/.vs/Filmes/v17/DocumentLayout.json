@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Alura C#\\Exercicios\\Filmes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24EC2A07-DE24-4B8D-8DCB-0DEA8C2942E0}|Filmes\\Filmes.csproj|c:\\alura c#\\exercicios\\filmes\\filmes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EC2A07-DE24-4B8D-8DCB-0DEA8C2942E0}|Filmes\\Filmes.csproj|solutionrelative:filmes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EC2A07-DE24-4B8D-8DCB-0DEA8C2942E0}|Filmes\\Filmes.csproj|c:\\alura c#\\exercicios\\filmes\\filmes\\alura.filmes\\filmexpto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EC2A07-DE24-4B8D-8DCB-0DEA8C2942E0}|Filmes\\Filmes.csproj|solutionrelative:filmes\\alura.filmes\\filmexpto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EC2A07-DE24-4B8D-8DCB-0DEA8C2942E0}|Filmes\\Filmes.csproj|c:\\alura c#\\exercicios\\filmes\\filmes\\alura.filmes\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EC2A07-DE24-4B8D-8DCB-0DEA8C2942E0}|Filmes\\Filmes.csproj|solutionrelative:filmes\\alura.filmes\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24EC2A07-DE24-4B8D-8DCB-0DEA8C2942E0}|Filmes\\Filmes.csproj|c:\\alura c#\\exercicios\\filmes\\filmes\\alura.filmes\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24EC2A07-DE24-4B8D-8DCB-0DEA8C2942E0}|Filmes\\Filmes.csproj|solutionrelative:filmes\\alura.filmes\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Exercicios\\Filmes\\Filmes\\Alura.Filmes\\Artista.cs",
+              "RelativeDocumentMoniker": "Filmes\\Alura.Filmes\\Artista.cs",
+              "ToolTip": "C:\\Alura C#\\Exercicios\\Filmes\\Filmes\\Alura.Filmes\\Artista.cs",
+              "RelativeToolTip": "Filmes\\Alura.Filmes\\Artista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:59:22.288Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmeXpto.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Exercicios\\Filmes\\Filmes\\Alura.Filmes\\FilmeXpto.cs",
+              "RelativeDocumentMoniker": "Filmes\\Alura.Filmes\\FilmeXpto.cs",
+              "ToolTip": "C:\\Alura C#\\Exercicios\\Filmes\\Filmes\\Alura.Filmes\\FilmeXpto.cs",
+              "RelativeToolTip": "Filmes\\Alura.Filmes\\FilmeXpto.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T14:25:23.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Exercicios\\Filmes\\Filmes\\Program.cs",
+              "RelativeDocumentMoniker": "Filmes\\Program.cs",
+              "ToolTip": "C:\\Alura C#\\Exercicios\\Filmes\\Filmes\\Program.cs",
+              "RelativeToolTip": "Filmes\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:22:02.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Filme.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Exercicios\\Filmes\\Filmes\\Alura.Filmes\\Filme.cs",
+              "RelativeDocumentMoniker": "Filmes\\Alura.Filmes\\Filme.cs",
+              "ToolTip": "C:\\Alura C#\\Exercicios\\Filmes\\Filmes\\Alura.Filmes\\Filme.cs",
+              "RelativeToolTip": "Filmes\\Alura.Filmes\\Filme.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T13:55:37.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

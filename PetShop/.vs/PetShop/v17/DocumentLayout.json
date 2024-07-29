@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Alura C#\\Exercicios\\PetShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B13506-1637-40E4-B0EA-275947352EA5}|PetShop\\PetShop.csproj|c:\\alura c#\\exercicios\\petshop\\petshop\\petshop\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B13506-1637-40E4-B0EA-275947352EA5}|PetShop\\PetShop.csproj|solutionrelative:petshop\\petshop\\medico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B13506-1637-40E4-B0EA-275947352EA5}|PetShop\\PetShop.csproj|c:\\alura c#\\exercicios\\petshop\\petshop\\petshop\\dono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B13506-1637-40E4-B0EA-275947352EA5}|PetShop\\PetShop.csproj|solutionrelative:petshop\\petshop\\dono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B13506-1637-40E4-B0EA-275947352EA5}|PetShop\\PetShop.csproj|c:\\alura c#\\exercicios\\petshop\\petshop\\petshop\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B13506-1637-40E4-B0EA-275947352EA5}|PetShop\\PetShop.csproj|solutionrelative:petshop\\petshop\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B13506-1637-40E4-B0EA-275947352EA5}|PetShop\\PetShop.csproj|c:\\alura c#\\exercicios\\petshop\\petshop\\petshop\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B13506-1637-40E4-B0EA-275947352EA5}|PetShop\\PetShop.csproj|solutionrelative:petshop\\petshop\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B13506-1637-40E4-B0EA-275947352EA5}|PetShop\\PetShop.csproj|c:\\alura c#\\exercicios\\petshop\\petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B13506-1637-40E4-B0EA-275947352EA5}|PetShop\\PetShop.csproj|solutionrelative:petshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Medico.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Exercicios\\PetShop\\PetShop\\Petshop\\Medico.cs",
+              "RelativeDocumentMoniker": "PetShop\\Petshop\\Medico.cs",
+              "ToolTip": "C:\\Alura C#\\Exercicios\\PetShop\\PetShop\\Petshop\\Medico.cs",
+              "RelativeToolTip": "PetShop\\Petshop\\Medico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:36:46.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Exercicios\\PetShop\\PetShop\\Petshop\\Consulta.cs",
+              "RelativeDocumentMoniker": "PetShop\\Petshop\\Consulta.cs",
+              "ToolTip": "C:\\Alura C#\\Exercicios\\PetShop\\PetShop\\Petshop\\Consulta.cs",
+              "RelativeToolTip": "PetShop\\Petshop\\Consulta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T12:25:42.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dono.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Exercicios\\PetShop\\PetShop\\Petshop\\Dono.cs",
+              "RelativeDocumentMoniker": "PetShop\\Petshop\\Dono.cs",
+              "ToolTip": "C:\\Alura C#\\Exercicios\\PetShop\\PetShop\\Petshop\\Dono.cs",
+              "RelativeToolTip": "PetShop\\Petshop\\Dono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:45:18.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Exercicios\\PetShop\\PetShop\\Petshop\\Pet.cs",
+              "RelativeDocumentMoniker": "PetShop\\Petshop\\Pet.cs",
+              "ToolTip": "C:\\Alura C#\\Exercicios\\PetShop\\PetShop\\Petshop\\Pet.cs",
+              "RelativeToolTip": "PetShop\\Petshop\\Pet.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:25:21.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Exercicios\\PetShop\\PetShop\\Program.cs",
+              "RelativeDocumentMoniker": "PetShop\\Program.cs",
+              "ToolTip": "C:\\Alura C#\\Exercicios\\PetShop\\PetShop\\Program.cs",
+              "RelativeToolTip": "PetShop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T11:23:40.278Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

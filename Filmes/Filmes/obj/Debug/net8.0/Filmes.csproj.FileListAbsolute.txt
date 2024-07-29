@@ -1,0 +1,14 @@
+C:\Alura C#\Exercicios\Filmes\Filmes\bin\Debug\net8.0\Filmes.exe
+C:\Alura C#\Exercicios\Filmes\Filmes\bin\Debug\net8.0\Filmes.deps.json
+C:\Alura C#\Exercicios\Filmes\Filmes\bin\Debug\net8.0\Filmes.runtimeconfig.json
+C:\Alura C#\Exercicios\Filmes\Filmes\bin\Debug\net8.0\Filmes.dll
+C:\Alura C#\Exercicios\Filmes\Filmes\bin\Debug\net8.0\Filmes.pdb
+C:\Alura C#\Exercicios\Filmes\Filmes\obj\Debug\net8.0\Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura C#\Exercicios\Filmes\Filmes\obj\Debug\net8.0\Filmes.AssemblyInfoInputs.cache
+C:\Alura C#\Exercicios\Filmes\Filmes\obj\Debug\net8.0\Filmes.AssemblyInfo.cs
+C:\Alura C#\Exercicios\Filmes\Filmes\obj\Debug\net8.0\Filmes.csproj.CoreCompileInputs.cache
+C:\Alura C#\Exercicios\Filmes\Filmes\obj\Debug\net8.0\Filmes.dll
+C:\Alura C#\Exercicios\Filmes\Filmes\obj\Debug\net8.0\refint\Filmes.dll
+C:\Alura C#\Exercicios\Filmes\Filmes\obj\Debug\net8.0\Filmes.pdb
+C:\Alura C#\Exercicios\Filmes\Filmes\obj\Debug\net8.0\Filmes.genruntimeconfig.cache
+C:\Alura C#\Exercicios\Filmes\Filmes\obj\Debug\net8.0\ref\Filmes.dll

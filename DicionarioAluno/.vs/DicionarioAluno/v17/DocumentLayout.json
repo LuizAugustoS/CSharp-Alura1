@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Alura C#\\DicionarioAluno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79F4010B-5EDD-4F8C-AE76-7640B6C3E097}|DicionarioAluno\\DicionarioAluno.csproj|c:\\alura c#\\dicionarioaluno\\dicionarioaluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79F4010B-5EDD-4F8C-AE76-7640B6C3E097}|DicionarioAluno\\DicionarioAluno.csproj|solutionrelative:dicionarioaluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Alura C#\\DicionarioAluno\\DicionarioAluno\\Program.cs",
+              "RelativeDocumentMoniker": "DicionarioAluno\\Program.cs",
+              "ToolTip": "C:\\Alura C#\\DicionarioAluno\\DicionarioAluno\\Program.cs",
+              "RelativeToolTip": "DicionarioAluno\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:16:57.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

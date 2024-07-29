@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Alura C#\\Exercicios\\Conta banc\u00E1ria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8544EB-12B0-4DA8-AEAC-1F9264F9EE2E}|Conta banc\u00E1ria\\Conta banc\u00E1ria.csproj|c:\\alura c#\\exercicios\\conta banc\u00E1ria\\conta banc\u00E1ria\\titular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8544EB-12B0-4DA8-AEAC-1F9264F9EE2E}|Conta banc\u00E1ria\\Conta banc\u00E1ria.csproj|solutionrelative:conta banc\u00E1ria\\titular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E8544EB-12B0-4DA8-AEAC-1F9264F9EE2E}|Conta banc\u00E1ria\\Conta banc\u00E1ria.csproj|c:\\alura c#\\exercicios\\conta banc\u00E1ria\\conta banc\u00E1ria\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E8544EB-12B0-4DA8-AEAC-1F9264F9EE2E}|Conta banc\u00E1ria\\Conta banc\u00E1ria.csproj|solutionrelative:conta banc\u00E1ria\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Exercicios\\Conta banc\u00E1ria\\Conta banc\u00E1ria\\Conta.cs",
+              "RelativeDocumentMoniker": "Conta banc\u00E1ria\\Conta.cs",
+              "ToolTip": "C:\\Alura C#\\Exercicios\\Conta banc\u00E1ria\\Conta banc\u00E1ria\\Conta.cs",
+              "RelativeToolTip": "Conta banc\u00E1ria\\Conta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:36:45.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Titular.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Exercicios\\Conta banc\u00E1ria\\Conta banc\u00E1ria\\Titular.cs",
+              "RelativeDocumentMoniker": "Conta banc\u00E1ria\\Titular.cs",
+              "ToolTip": "C:\\Alura C#\\Exercicios\\Conta banc\u00E1ria\\Conta banc\u00E1ria\\Titular.cs",
+              "RelativeToolTip": "Conta banc\u00E1ria\\Titular.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T13:32:55.303Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

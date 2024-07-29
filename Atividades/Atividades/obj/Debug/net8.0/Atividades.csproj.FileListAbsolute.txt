@@ -1,0 +1,21 @@
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Atividades\Atividades\obj\Debug\net8.0\Atividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Atividades\Atividades\obj\Debug\net8.0\Atividades.AssemblyInfoInputs.cache
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Atividades\Atividades\obj\Debug\net8.0\Atividades.AssemblyInfo.cs
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Atividades\Atividades\obj\Debug\net8.0\Atividades.csproj.CoreCompileInputs.cache
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Atividades\Atividades\bin\Debug\net8.0\Atividades.exe
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Atividades\Atividades\bin\Debug\net8.0\Atividades.deps.json
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Atividades\Atividades\bin\Debug\net8.0\Atividades.runtimeconfig.json
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Atividades\Atividades\bin\Debug\net8.0\Atividades.dll
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Atividades\Atividades\bin\Debug\net8.0\Atividades.pdb
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Atividades\Atividades\obj\Debug\net8.0\Atividades.dll
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Atividades\Atividades\obj\Debug\net8.0\refint\Atividades.dll
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Atividades\Atividades\obj\Debug\net8.0\Atividades.pdb
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Atividades\Atividades\obj\Debug\net8.0\Atividades.genruntimeconfig.cache
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Atividades\Atividades\obj\Debug\net8.0\ref\Atividades.dll
+C:\Alura C#\Atividades\Atividades\obj\Debug\net8.0\Atividades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura C#\Atividades\Atividades\obj\Debug\net8.0\Atividades.AssemblyInfoInputs.cache
+C:\Alura C#\Atividades\Atividades\obj\Debug\net8.0\Atividades.AssemblyInfo.cs
+C:\Alura C#\Atividades\Atividades\obj\Debug\net8.0\Atividades.csproj.CoreCompileInputs.cache
+C:\Alura C#\Atividades\Atividades\obj\Debug\net8.0\Atividades.dll
+C:\Alura C#\Atividades\Atividades\obj\Debug\net8.0\refint\Atividades.dll
+C:\Alura C#\Atividades\Atividades\obj\Debug\net8.0\Atividades.pdb

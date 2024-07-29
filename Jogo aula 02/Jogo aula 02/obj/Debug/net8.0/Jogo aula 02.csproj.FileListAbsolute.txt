@@ -1,0 +1,28 @@
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Jogo aula 02\Jogo aula 02\bin\Debug\net8.0\Jogo aula 02.exe
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Jogo aula 02\Jogo aula 02\bin\Debug\net8.0\Jogo aula 02.deps.json
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Jogo aula 02\Jogo aula 02\bin\Debug\net8.0\Jogo aula 02.runtimeconfig.json
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Jogo aula 02\Jogo aula 02\bin\Debug\net8.0\Jogo aula 02.dll
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Jogo aula 02\Jogo aula 02\bin\Debug\net8.0\Jogo aula 02.pdb
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\Jogo aula 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\Jogo aula 02.AssemblyInfoInputs.cache
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\Jogo aula 02.AssemblyInfo.cs
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\Jogo aula 02.csproj.CoreCompileInputs.cache
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\Jogo aula 02.dll
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\refint\Jogo aula 02.dll
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\Jogo aula 02.pdb
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\Jogo aula 02.genruntimeconfig.cache
+C:\Users\laugu\OneDrive\Área de Trabalho\Alura C#\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\ref\Jogo aula 02.dll
+C:\Alura C#\Exercicios\Jogo aula 02\Jogo aula 02\bin\Debug\net8.0\Jogo aula 02.exe
+C:\Alura C#\Exercicios\Jogo aula 02\Jogo aula 02\bin\Debug\net8.0\Jogo aula 02.deps.json
+C:\Alura C#\Exercicios\Jogo aula 02\Jogo aula 02\bin\Debug\net8.0\Jogo aula 02.runtimeconfig.json
+C:\Alura C#\Exercicios\Jogo aula 02\Jogo aula 02\bin\Debug\net8.0\Jogo aula 02.dll
+C:\Alura C#\Exercicios\Jogo aula 02\Jogo aula 02\bin\Debug\net8.0\Jogo aula 02.pdb
+C:\Alura C#\Exercicios\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\Jogo aula 02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura C#\Exercicios\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\Jogo aula 02.AssemblyInfoInputs.cache
+C:\Alura C#\Exercicios\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\Jogo aula 02.AssemblyInfo.cs
+C:\Alura C#\Exercicios\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\Jogo aula 02.csproj.CoreCompileInputs.cache
+C:\Alura C#\Exercicios\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\Jogo aula 02.dll
+C:\Alura C#\Exercicios\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\refint\Jogo aula 02.dll
+C:\Alura C#\Exercicios\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\Jogo aula 02.pdb
+C:\Alura C#\Exercicios\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\Jogo aula 02.genruntimeconfig.cache
+C:\Alura C#\Exercicios\Jogo aula 02\Jogo aula 02\obj\Debug\net8.0\ref\Jogo aula 02.dll

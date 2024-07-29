@@ -1,0 +1,14 @@
+C:\Alura C#\DicionarioAluno\DicionarioAluno\obj\Debug\net8.0\DicionarioAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura C#\DicionarioAluno\DicionarioAluno\obj\Debug\net8.0\DicionarioAluno.AssemblyInfoInputs.cache
+C:\Alura C#\DicionarioAluno\DicionarioAluno\obj\Debug\net8.0\DicionarioAluno.AssemblyInfo.cs
+C:\Alura C#\DicionarioAluno\DicionarioAluno\obj\Debug\net8.0\DicionarioAluno.csproj.CoreCompileInputs.cache
+C:\Alura C#\DicionarioAluno\DicionarioAluno\bin\Debug\net8.0\DicionarioAluno.exe
+C:\Alura C#\DicionarioAluno\DicionarioAluno\bin\Debug\net8.0\DicionarioAluno.deps.json
+C:\Alura C#\DicionarioAluno\DicionarioAluno\bin\Debug\net8.0\DicionarioAluno.runtimeconfig.json
+C:\Alura C#\DicionarioAluno\DicionarioAluno\bin\Debug\net8.0\DicionarioAluno.dll
+C:\Alura C#\DicionarioAluno\DicionarioAluno\bin\Debug\net8.0\DicionarioAluno.pdb
+C:\Alura C#\DicionarioAluno\DicionarioAluno\obj\Debug\net8.0\DicionarioAluno.dll
+C:\Alura C#\DicionarioAluno\DicionarioAluno\obj\Debug\net8.0\refint\DicionarioAluno.dll
+C:\Alura C#\DicionarioAluno\DicionarioAluno\obj\Debug\net8.0\DicionarioAluno.pdb
+C:\Alura C#\DicionarioAluno\DicionarioAluno\obj\Debug\net8.0\DicionarioAluno.genruntimeconfig.cache
+C:\Alura C#\DicionarioAluno\DicionarioAluno\obj\Debug\net8.0\ref\DicionarioAluno.dll

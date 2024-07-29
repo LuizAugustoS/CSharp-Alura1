@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Alura C#\\Atividades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Alura C#\\Atividades\\Dicionario Alunoi\\Dicionario Aluno.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dicionario Alunoi\\Dicionario Aluno.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0609B2E2-30A4-4EFB-ADF6-A7885A755554}|Atividades\\Atividades.csproj|c:\\alura c#\\atividades\\atividades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0609B2E2-30A4-4EFB-ADF6-A7885A755554}|Atividades\\Atividades.csproj|solutionrelative:atividades\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Alura C#\\Atividades\\Dicionario Alunoi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dicionario Alunoi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Atividades\\Atividades\\Program.cs",
+              "RelativeDocumentMoniker": "Atividades\\Program.cs",
+              "ToolTip": "C:\\Alura C#\\Atividades\\Atividades\\Program.cs",
+              "RelativeToolTip": "Atividades\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:14:37.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Alura C#\\Atividades\\Dicionario Alunoi\\Program.cs",
+              "RelativeDocumentMoniker": "Dicionario Alunoi\\Program.cs",
+              "ToolTip": "C:\\Alura C#\\Atividades\\Dicionario Alunoi\\Program.cs",
+              "RelativeToolTip": "Dicionario Alunoi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T19:13:13.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dicionario Aluno.csproj",
+              "DocumentMoniker": "C:\\Alura C#\\Atividades\\Dicionario Alunoi\\Dicionario Aluno.csproj",
+              "RelativeDocumentMoniker": "Dicionario Alunoi\\Dicionario Aluno.csproj",
+              "ToolTip": "C:\\Alura C#\\Atividades\\Dicionario Alunoi\\Dicionario Aluno.csproj",
+              "RelativeToolTip": "Dicionario Alunoi\\Dicionario Aluno.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T18:15:36.983Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

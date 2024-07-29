@@ -1,0 +1,14 @@
+C:\Alura C#\Conta bancária\Conta bancária\bin\Debug\net8.0\Conta bancária.exe
+C:\Alura C#\Conta bancária\Conta bancária\bin\Debug\net8.0\Conta bancária.deps.json
+C:\Alura C#\Conta bancária\Conta bancária\bin\Debug\net8.0\Conta bancária.runtimeconfig.json
+C:\Alura C#\Conta bancária\Conta bancária\bin\Debug\net8.0\Conta bancária.dll
+C:\Alura C#\Conta bancária\Conta bancária\bin\Debug\net8.0\Conta bancária.pdb
+C:\Alura C#\Conta bancária\Conta bancária\obj\Debug\net8.0\Conta bancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Alura C#\Conta bancária\Conta bancária\obj\Debug\net8.0\Conta bancária.AssemblyInfoInputs.cache
+C:\Alura C#\Conta bancária\Conta bancária\obj\Debug\net8.0\Conta bancária.AssemblyInfo.cs
+C:\Alura C#\Conta bancária\Conta bancária\obj\Debug\net8.0\Conta bancária.csproj.CoreCompileInputs.cache
+C:\Alura C#\Conta bancária\Conta bancária\obj\Debug\net8.0\Conta bancária.dll
+C:\Alura C#\Conta bancária\Conta bancária\obj\Debug\net8.0\refint\Conta bancária.dll
+C:\Alura C#\Conta bancária\Conta bancária\obj\Debug\net8.0\Conta bancária.pdb
+C:\Alura C#\Conta bancária\Conta bancária\obj\Debug\net8.0\Conta bancária.genruntimeconfig.cache
+C:\Alura C#\Conta bancária\Conta bancária\obj\Debug\net8.0\ref\Conta bancária.dll
